@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1484029013 source:d:\neoblaster\desktop\timeout\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	<unistd.h>
+	<time.h>
+
